@@ -7,3 +7,13 @@
 
 * [sketch template](https://www.sketchappsources.com/)
 * [vidoe](https://drive.google.com/drive/u/2/folders/1y68fy1XaTCduyCZ_ZgVkR1RhzPgQTIT8)
+
+
+
+
+### 第三方类库
+
+* okhttp
+* [gson](https://github.com/google/gson)
+* [picasso](https://github.com/square/picasso)
+* [okhttp3](https://square.github.io/okhttp/)
