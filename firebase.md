@@ -7,3 +7,5 @@
 * facebook
   * [facebook login](https://firebase.google.com/docs/auth/android/facebook-login)
   * [developer center](https://developers.facebook.com)
+
+* [Android 集成Firebase登陆](https://github.com/bing-deng/firebase.git)
